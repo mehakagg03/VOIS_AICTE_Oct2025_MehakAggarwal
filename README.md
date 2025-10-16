@@ -6,17 +6,24 @@ This project explores and visualizes Airbnb data to uncover insights into pricin
 
 🧰 Tools & Technologies
 
-Python 3.0
-Pandas – data manipulation and cleaning
-NumPy – numerical computations
-Matplotlib – static visualizations
-Seaborn – statistical data visualization
+-Python 3.0
+
+-Pandas – data manipulation and cleaning
+
+-NumPy – numerical computations
+
+-Matplotlib – static visualizations
+
+-Seaborn – statistical data visualization
 
 📊 Key Analyses & Visualizations
 
 The notebook includes several analyses such as:
 
-Data Cleaning & Preprocessing
-Handling missing values and duplicates
-Data type conversions and feature selection
-Exploratory Data Analysis (EDA)
+-Data Cleaning & Preprocessing
+
+-Handling missing values and duplicates
+
+-Data type conversions and feature selection
+
+-Exploratory Data Analysis (EDA)
